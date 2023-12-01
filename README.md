@@ -23,7 +23,6 @@ I am studying analytics and developing in this direction
 **Extra: Excel, A/B testing**
 
 ## Certificates
-
-https://www.hackerrank.com/certificates/18d7b7d3d08d
+[SQL Advanced Hacker Rank](https://www.hackerrank.com/certificates/18d7b7d3d08d)
 
 ## Pet-projects
