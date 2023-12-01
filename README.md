@@ -8,9 +8,9 @@
 - [Pet-projects](#PetProjects)
 
 ## About
-English HeadHunter
+I am studying analytics and developing in this direction
 ## Education
-**years graduate university flow**
+**2015-2019 Mirea university**
 
 ## Technology Stack
 
