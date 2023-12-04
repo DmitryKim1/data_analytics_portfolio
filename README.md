@@ -26,3 +26,4 @@ I am studying analytics and developing in this direction
 [SQL Advanced Hacker Rank](https://www.hackerrank.com/certificates/18d7b7d3d08d)
 
 ## Pet-projects
+[Retail sales](https://github.com/gituse412/data_analytics_portfolio/blob/main/retail_analysis/README.md)
