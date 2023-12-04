@@ -3,6 +3,8 @@
 
 ## Introduction
 
+**[Notebook results](https://github.com/gituse412/data_analytics_portfolio/blob/main/retail_analysis/RetailAnalysis.ipynb)**
+
 **[Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)**
 
 In this project, I took a dataset from kaggle and went all the way through analyzing this table. I got rid of the outliers, conducted a research analysis of the data, visualized the results and made conclusions and suggestions for improving the product, in our case it is a store.
@@ -22,3 +24,4 @@ Conclusion: on average, men and women spend the same. The average age of buyers 
 ![image](https://github.com/gituse412/data_analytics_portfolio/assets/57147820/cdc4bad4-00b5-4837-9646-5d7903dec510)
 
 ![image](https://github.com/gituse412/data_analytics_portfolio/assets/57147820/d1637681-b98a-4cb8-9ed5-d8731f9cd153)
+
