@@ -27,3 +27,5 @@ I am studying analytics and developing in this direction
 
 ## Pet-projects
 [Retail sales](https://github.com/gituse412/data_analytics_portfolio/blob/main/retail_analysis/README.md)
+
+[Linear Regression](https://github.com/gituse412/data_analytics_portfolio/tree/main/Linear_Regression)
